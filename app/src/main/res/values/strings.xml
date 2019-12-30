@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogar Dado</string>
+    <string name="Roll">Jogar</string>
+    <string name="RollDice">Acerte o Número!</string>
+</resources>
